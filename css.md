@@ -1,6 +1,6 @@
 # CSS
 
-```css
+```html
 <head>
   <style>
     body {background-color: powderblue;}
