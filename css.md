@@ -1,6 +1,6 @@
 # CSS
 
-```
+```css
 <head>
   <style>
     body {background-color: powderblue;}
@@ -10,7 +10,7 @@
 </head>
 ```
 
-```
+```css
 :root {
   --blue: #1e90ff;
   --white: #ffffff;

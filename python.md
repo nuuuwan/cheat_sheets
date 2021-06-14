@@ -2,7 +2,7 @@
 
 ## re
 
-```
+```python
 r'(?P<first>\w+) (?P<last>\w+)'
 result = re.search(REGEX_MEDIA_URL, URL)
 result.groupdict()
@@ -10,7 +10,7 @@ result.groupdict()
 
 # os
 
-```
+```python
 os.path.exists
 os.path.join
 os.mkdir
@@ -22,7 +22,7 @@ file_name, ext = os.path.splitext(file_path)
 
 ## shutil (High-level file operations)
 
-```
+```python
 shutil.move(src, dst, … )
 shutil.copytree(src, dst, … )
 shutil.rmtree
@@ -31,7 +31,7 @@ shutil.copy(src, dst, … )
 
 ## bs4 (Beautiful Soup)
 
-```
+```python
 from bs4 import BeautifulSoup
 soup = BeautifulSoup(html_doc, 'html.parser')
 soup = BeautifulSoup(html_doc, 'html.parser')
@@ -41,7 +41,7 @@ soup.find_all('div', class_="table-row")
 
 ## xml
 
-```
+```python
 import xml.etree.ElementTree as ET
 tree = ET.parse(xmlfile)
 root = tree.getroot()
@@ -49,7 +49,7 @@ root = tree.getroot()
 
 ## unittest
 
-```
+```python
 assertIsNone(x)
 assertIsNotNone(x)
 assertIn(a, b)
