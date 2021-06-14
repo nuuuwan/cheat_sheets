@@ -8,7 +8,7 @@ result = re.search(REGEX_MEDIA_URL, URL)
 result.groupdict()
 ```
 
-# os
+## os
 
 ```python
 os.path.exists
