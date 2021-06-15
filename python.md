@@ -16,6 +16,7 @@ os.path.join
 os.mkdir
 for root_dir, sub_dirs, files in os.walk(PATH):
     …
+
 os.path.isdir
 file_name, ext = os.path.splitext(file_path)
 ```
@@ -58,9 +59,17 @@ assertIsNone(x)
 assertIsNotNone(x)
 assertIn(a, b)
 assertIsInstance(a, b)
-assertRaises
+assertRaises(...)
 assertAlmostEqual(a, b)
 assertGreater(a, b)
 assertListEqual(a, b)
 assertDictEqual(a, b)
+```
+
+## logging
+```python
+logging.basicConfig(
+  filename='utils-nuuuwan',
+  level=logging.DEBUG,
+)
 ```
