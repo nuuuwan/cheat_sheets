@@ -50,6 +50,9 @@ soup.find_all('a', href=True):
 import xml.etree.ElementTree as ET
 tree = ET.parse(xmlfile)
 root = tree.getroot()
+
+tree = ET.fromstring(xml_as_string)
+
 ```
 
 ## unittest
