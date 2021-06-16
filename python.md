@@ -38,8 +38,9 @@ soup = BeautifulSoup(html_doc, 'html.parser')
 
 elem.name == 'h1'
 
-soup.find_all('div', class_="table-row")
+soup.find_all('div', class_='table-row')
 soup.find_all('a', href=True):
+soup.find_all(attrs={'name' : 'stainfo'})
 
 
 ```
@@ -75,4 +76,19 @@ logging.basicConfig(
   filename='utils-nuuuwan',
   level=logging.DEBUG,
 )
+```
+
+## argparse
+```python
+import argparse
+
+parser = argparse.ArgumentParser(description='Process some integers.')
+parser.add_argument(
+  'integers',  # name (or flags)
+  help='an integer'),
+  type=int,
+  default=12,
+  required=True,
+)
+args = parser.parse_args()
 ```
