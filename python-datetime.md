@@ -19,7 +19,7 @@
 %-m 	Month as a decimal number. (Platform specific) 	9
 ```
 
-## Yeaar
+## Year
 
 ```python
 %y 	Year without century as a zero-padded decimal number. 	13
