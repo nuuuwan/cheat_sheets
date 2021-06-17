@@ -1,5 +1,7 @@
 # Dewey Decimal Classification
 ## 1xx
+
+```tsv
 000	Computer science information & general works
 100	Philosophy & psychology
 200	Religion
@@ -11,3 +13,4 @@
 700	Arts & recreation
 800	Literature
 900	History & geography
+```
