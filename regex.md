@@ -1,6 +1,6 @@
 # Regex
 
-Source: https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285
+(Based on https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285, with @nuuuwan's notes and additions)
 
 ## Basic Topics
 
