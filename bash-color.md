@@ -1,7 +1,7 @@
 # Bash Color Codes
 
 ```bash
-Color 	Foreground 	Background
+Color 		Foreground 	Background
 Black 		30 	40
 Red 		31 	41
 Green 		32 	42
