@@ -1,214 +1,214 @@
-﻿Code,Name,Level,Kebab Cases
-0,"Computer science, information & general works",1,0-computer-science-information-and-general-works
-100,Philosophy & psychology,1,100-philosophy-and-psychology
-200,Religion,1,200-religion
-300,Social sciences,1,300-social-sciences
-400,Language,1,400-language
-500,Science,1,500-science
-600,Technology,1,600-technology
-700,Arts & recreation,1,700-arts-and-recreation
-800,Literature,1,800-literature
-900,History & geography,1,900-history-and-geography
-0,"Computer science, knowledge & systems",2,0-computer-science-knowledge-and-systems
-10,Bibliographies,2,10-bibliographies
-20,Library & information sciences,2,20-library-and-information-sciences
-30,Encyclopedias & books of facts,2,30-encyclopedias-and-books-of-facts
-40,[Unassigned],2,40-[unassigned]
-50,"Magazines, journals & serials",2,50-magazines-journals-and-serials
-60,"Associations, organizations & museums",2,60-associations-organizations-and-museums
-70,"News media, journalism & publishing",2,70-news-media-journalism-and-publishing
-80,Quotations,2,80-quotations
-90,Manuscripts & rare books,2,90-manuscripts-and-rare-books
-100,Philosophy,2,100-philosophy
-110,Metaphysics,2,110-metaphysics
-120,Epistemology,2,120-epistemology
-130,Parapsychology & occultism,2,130-parapsychology-and-occultism
-140,Philosophical schools of thought,2,140-philosophical-schools-of-thought
-150,Psychology,2,150-psychology
-160,Philosophical logic,2,160-philosophical-logic
-170,Ethics,2,170-ethics
-180,"Ancient, medieval & eastern philosophy",2,180-ancient-medieval-and-eastern-philosophy
-190,Modern western philosophy,2,190-modern-western-philosophy
-200,Religion,2,200-religion
-210,Philosophy & theory of religion,2,210-philosophy-and-theory-of-religion
-220,The Bible,2,220-the-bible
-230,Christianity,2,230-christianity
-240,Christian practice & observance,2,240-christian-practice-and-observance
-250,Christian pastoral practice & religious orders,2,250-christian-pastoral-practice-and-religious-orders
-260,"Christian organization, social work & worship",2,260-christian-organization-social-work-and-worship
-270,History of Christianity,2,270-history-of-christianity
-280,Christian denominations,2,280-christian-denominations
-290,Other religions,2,290-other-religions
-300,"Social sciences, sociology & anthropology",2,300-social-sciences-sociology-and-anthropology
-310,Statistics,2,310-statistics
-320,Political science,2,320-political-science
-330,Economics,2,330-economics
-340,Law,2,340-law
-350,Public administration & military science,2,350-public-administration-and-military-science
-360,Social problems & social services,2,360-social-problems-and-social-services
-370,Education,2,370-education
-380,"Commerce, communications & transportation",2,380-commerce-communications-and-transportation
-390,"Customs, etiquette & folklore",2,390-customs-etiquette-and-folklore
-400,Language,2,400-language
-410,Linguistics,2,410-linguistics
-420,English & Old English languages,2,420-english-and-old-english-languages
-430,German & related languages,2,430-german-and-related-languages
-440,French & related languages,2,440-french-and-related-languages
-450,"Italian, Romanian & related languages",2,450-italian-romanian-and-related-languages
-460,"Spanish, Portuguese, Galician",2,460-spanish-portuguese-galician
-470,Latin & Italic languages,2,470-latin-and-italic-languages
-480,Classical & modern Greek languages,2,480-classical-and-modern-greek-languages
-490,Other languages,2,490-other-languages
-500,Science,2,500-science
-510,Mathematics,2,510-mathematics
-520,Astronomy,2,520-astronomy
-530,Physics,2,530-physics
-540,Chemistry,2,540-chemistry
-550,Earth sciences & geology,2,550-earth-sciences-and-geology
-560,Fossils & prehistoric life,2,560-fossils-and-prehistoric-life
-570,Biology,2,570-biology
-580,Plants (Botany),2,580-plants-(botany)
-590,Animals (Zoology),2,590-animals-(zoology)
-600,Technology,2,600-technology
-610,Medicine & health,2,610-medicine-and-health
-620,Engineering,2,620-engineering
-630,Agriculture,2,630-agriculture
-640,Home & family management,2,640-home-and-family-management
-650,Management & public relations,2,650-management-and-public-relations
-660,Chemical engineering,2,660-chemical-engineering
-670,Manufacturing,2,670-manufacturing
-680,Manufacture for specific uses,2,680-manufacture-for-specific-uses
-690,Construction of buildings,2,690-construction-of-buildings
-700,Arts,2,700-arts
-710,Area planning & landscape architecture,2,710-area-planning-and-landscape-architecture
-720,Architecture,2,720-architecture
-730,"Sculpture, ceramics & metalwork",2,730-sculpture-ceramics-and-metalwork
-740,Graphic arts & decorative arts,2,740-graphic-arts-and-decorative-arts
-750,Painting,2,750-painting
-760,Printmaking & prints,2,760-printmaking-and-prints
-770,"Photography, computer art, film, video",2,770-photography-computer-art-film-video
-780,Music,2,780-music
-790,"Sports, games & entertainment",2,790-sports-games-and-entertainment
-800,"Literature, rhetoric & criticism",2,800-literature-rhetoric-and-criticism
-810,American literature in English,2,810-american-literature-in-english
-820,English & Old English literatures,2,820-english-and-old-english-literatures
-830,German & related literatures,2,830-german-and-related-literatures
-840,French & related literatures,2,840-french-and-related-literatures
-850,"Italian, Romanian & related literatures",2,850-italian-romanian-and-related-literatures
-860,"Spanish, Portuguese, Galician literatures",2,860-spanish-portuguese-galician-literatures
-870,Latin & Italic literatures,2,870-latin-and-italic-literatures
-880,Classical & modern Greek literatures,2,880-classical-and-modern-greek-literatures
-890,Other literatures,2,890-other-literatures
-900,History,2,900-history
-910,Geography & travel,2,910-geography-and-travel
-920,Biography & genealogy,2,920-biography-and-genealogy
-930,History of ancient world (to ca. 499),2,930-history-of-ancient-world-(to-ca.-499)
-940,History of Europe,2,940-history-of-europe
-950,History of Asia,2,950-history-of-asia
-960,History of Africa,2,960-history-of-africa
-970,History of North America,2,970-history-of-north-america
-980,History of South America,2,980-history-of-south-america
-990,History of other areas,2,990-history-of-other-areas
-0,"Computer science, information, general works",3,0-computer-science-information-general-works
-1,Knowledge,3,1-knowledge
-2,The book,3,2-the-book
-3,Systems,3,3-systems
-4,Computer science,3,4-computer-science
-5,"Computer programming, programs, data, security",3,5-computer-programming-programs-data-security
-6,Special computer methods,3,6-special-computer-methods
-7,[Unassigned],3,7-[unassigned]
-8,[Unassigned],3,8-[unassigned]
-9,[Unassigned],3,9-[unassigned]
-10,Bibliography,3,10-bibliography
-11,Bibliographies and catalogs,3,11-bibliographies-and-catalogs
-12,Bibliographies and catalogs of individuals,3,12-bibliographies-and-catalogs-of-individuals
-13,[Unassigned],3,13-[unassigned]
-14,Of anonymous & pseudonymous works,3,14-of-anonymous-and-pseudonymous-works
-15,Of works from specific places,3,15-of-works-from-specific-places
-16,Of works on specific subjects,3,16-of-works-on-specific-subjects
-17,Of works held in specific collections or offered for sale,3,17-of-works-held-in-specific-collections-or-offered-for-sale
-18,[Unassigned],3,18-[unassigned]
-19,[Unassigned],3,19-[unassigned]
-20,Library and information sciences,3,20-library-and-information-sciences
-21,Relationships of libraries and archives,3,21-relationships-of-libraries-and-archives
-22,Administration of physical plant,3,22-administration-of-physical-plant
-23,Personnel management,3,23-personnel-management
-24,[Unassigned],3,24-[unassigned]
-25,Operations of libraries and archives,3,25-operations-of-libraries-and-archives
-26,Libraries and archives devoted to specific subjects,3,26-libraries-and-archives-devoted-to-specific-subjects
-27,General libraries and archives,3,27-general-libraries-and-archives
-28,Reading and use of other information media,3,28-reading-and-use-of-other-information-media
-29,[Unassigned],3,29-[unassigned]
-30,General encyclopedic works,3,30-general-encyclopedic-works
-31,General encyclopedic works in American English,3,31-general-encyclopedic-works-in-american-english
-32,General encyclopedic works in English,3,32-general-encyclopedic-works-in-english
-33,Encyclopedias in other Germanic languages,3,33-encyclopedias-in-other-germanic-languages
-34,"Encyclopedias in French, Occitan, Catalan",3,34-encyclopedias-in-french-occitan-catalan
-35,"Encyclopedias in Italian, Romanian & related languages",3,35-encyclopedias-in-italian-romanian-and-related-languages
-36,"Encyclopedias in Spanish, Portuguese, Galician",3,36-encyclopedias-in-spanish-portuguese-galician
-37,General encyclopedic works in Slavic languages,3,37-general-encyclopedic-works-in-slavic-languages
-38,General encyclopedic works in Scandinavian languages,3,38-general-encyclopedic-works-in-scandinavian-languages
-39,General encyclopedic works in other languages,3,39-general-encyclopedic-works-in-other-languages
-40,[Unassigned],3,40-[unassigned]
-41,[Unassigned],3,41-[unassigned]
-42,[Unassigned],3,42-[unassigned]
-43,[Unassigned],3,43-[unassigned]
-44,[Unassigned],3,44-[unassigned]
-45,[Unassigned],3,45-[unassigned]
-46,[Unassigned],3,46-[unassigned]
-47,[Unassigned],3,47-[unassigned]
-48,[Unassigned],3,48-[unassigned]
-49,[Unassigned],3,49-[unassigned]
-50,General serial publications,3,50-general-serial-publications
-51,General serial publications in American English,3,51-general-serial-publications-in-american-english
-52,General serial publications in English,3,52-general-serial-publications-in-english
-53,Serials in other Germanic languages,3,53-serials-in-other-germanic-languages
-54,"Serials in French, Occitan, Catalan",3,54-serials-in-french-occitan-catalan
-55,"Serials in Italian, Romanian & related languages",3,55-serials-in-italian-romanian-and-related-languages
-56,"Serials in Spanish, Portuguese, Galician",3,56-serials-in-spanish-portuguese-galician
-57,General serial publications in Slavic languages,3,57-general-serial-publications-in-slavic-languages
-58,Serials in Scandinavian languages,3,58-serials-in-scandinavian-languages
-59,General serial publications in other languages,3,59-general-serial-publications-in-other-languages
-60,General organizations & museology,3,60-general-organizations-and-museology
-61,General organizations in North America,3,61-general-organizations-in-north-america
-62,General organizations in British Isles; in England,3,62-general-organizations-in-british-isles;-in-england
-63,General organizations in Germany,3,63-general-organizations-in-germany
-64,General organizations in France and Monaco,3,64-general-organizations-in-france-and-monaco
-65,General organizations in Italy,3,65-general-organizations-in-italy
-66,General organizations in Spain,3,66-general-organizations-in-spain
-67,General organizations in Russia,3,67-general-organizations-in-russia
-68,General organizations in other geographic areas,3,68-general-organizations-in-other-geographic-areas
-69,Museology (museum science),3,69-museology-(museum-science)
-70,"Documentary, educational, news media; journalism",3,70-documentary-educational-news-media;-journalism
-71,Journalism and newspapers in North America,3,71-journalism-and-newspapers-in-north-america
-72,Journalism and newspapers in British Isles,3,72-journalism-and-newspapers-in-british-isles
-73,Journalism and newspapers in Germany,3,73-journalism-and-newspapers-in-germany
-74,Journalism and newspapers in France and Monaco,3,74-journalism-and-newspapers-in-france-and-monaco
-75,Journalism and newspapers in Italy,3,75-journalism-and-newspapers-in-italy
-76,Journalism and newspapers in Spain,3,76-journalism-and-newspapers-in-spain
-77,Journalism and newspapers in Russia,3,77-journalism-and-newspapers-in-russia
-78,Journalism and newspapers in Scandinavia,3,78-journalism-and-newspapers-in-scandinavia
-79,Newspapers in other geographic areas,3,79-newspapers-in-other-geographic-areas
-80,General collections,3,80-general-collections
-81,General collections in American English,3,81-general-collections-in-american-english
-82,General collections in English,3,82-general-collections-in-english
-83,General collections in other Germanic languages,3,83-general-collections-in-other-germanic-languages
-84,"General collections in French, Occitan, Catalan",3,84-general-collections-in-french-occitan-catalan
-85,"Collections in Italian, Romanian & related languages",3,85-collections-in-italian-romanian-and-related-languages
-86,"Collections in Spanish, Portuguese, Galician",3,86-collections-in-spanish-portuguese-galician
-87,General collections in Slavic languages,3,87-general-collections-in-slavic-languages
-88,General collections in Scandinavian languages,3,88-general-collections-in-scandinavian-languages
-89,General collections in other languages,3,89-general-collections-in-other-languages
-90,"Manuscripts, rare books",3,90-manuscripts-rare-books
-91,Manuscripts,3,91-manuscripts
-92,Block books,3,92-block-books
-93,Incunabula,3,93-incunabula
-94,Printed books,3,94-printed-books
-95,Books notable for bindings,3,95-books-notable-for-bindings
-96,Books notable for illustrations and materials,3,96-books-notable-for-illustrations-and-materials
-97,Books notable for ownership or origin,3,97-books-notable-for-ownership-or-origin
-98,"Prohibited works, forgeries, hoaxes",3,98-prohibited-works-forgeries-hoaxes
-99,Books notable for format,3,99-books-notable-for-format
+﻿Code ,Name,Level,Kebab Case
+0xx,"Computer science, information & general works",1,0xx-computer-science-information-and-general-works
+1xx,Philosophy & psychology,1,1xx-philosophy-and-psychology
+2xx,Religion,1,2xx-religion
+3xx,Social sciences,1,3xx-social-sciences
+4xx,Language,1,4xx-language
+5xx,Science,1,5xx-science
+6xx,Technology,1,6xx-technology
+7xx,Arts & recreation,1,7xx-arts-and-recreation
+8xx,Literature,1,8xx-literature
+9xx,History & geography,1,9xx-history-and-geography
+00x,"Computer science, knowledge & systems",2,00x-computer-science-knowledge-and-systems
+01x,Bibliographies,2,01x-bibliographies
+02x,Library & information sciences,2,02x-library-and-information-sciences
+03x,Encyclopedias & books of facts,2,03x-encyclopedias-and-books-of-facts
+04x,[Unassigned],2,04x-[unassigned]
+05x,"Magazines, journals & serials",2,05x-magazines-journals-and-serials
+06x,"Associations, organizations & museums",2,06x-associations-organizations-and-museums
+07x,"News media, journalism & publishing",2,07x-news-media-journalism-and-publishing
+08x,Quotations,2,08x-quotations
+09x,Manuscripts & rare books,2,09x-manuscripts-and-rare-books
+10x,Philosophy,2,10x-philosophy
+11x,Metaphysics,2,11x-metaphysics
+12x,Epistemology,2,12x-epistemology
+13x,Parapsychology & occultism,2,13x-parapsychology-and-occultism
+14x,Philosophical schools of thought,2,14x-philosophical-schools-of-thought
+15x,Psychology,2,15x-psychology
+16x,Philosophical logic,2,16x-philosophical-logic
+17x,Ethics,2,17x-ethics
+18x,"Ancient, medieval & eastern philosophy",2,18x-ancient-medieval-and-eastern-philosophy
+19x,Modern western philosophy,2,19x-modern-western-philosophy
+20x,Religion,2,20x-religion
+21x,Philosophy & theory of religion,2,21x-philosophy-and-theory-of-religion
+22x,The Bible,2,22x-the-bible
+23x,Christianity,2,23x-christianity
+24x,Christian practice & observance,2,24x-christian-practice-and-observance
+25x,Christian pastoral practice & religious orders,2,25x-christian-pastoral-practice-and-religious-orders
+26x,"Christian organization, social work & worship",2,26x-christian-organization-social-work-and-worship
+27x,History of Christianity,2,27x-history-of-christianity
+28x,Christian denominations,2,28x-christian-denominations
+29x,Other religions,2,29x-other-religions
+30x,"Social sciences, sociology & anthropology",2,30x-social-sciences-sociology-and-anthropology
+31x,Statistics,2,31x-statistics
+32x,Political science,2,32x-political-science
+33x,Economics,2,33x-economics
+34x,Law,2,34x-law
+35x,Public administration & military science,2,35x-public-administration-and-military-science
+36x,Social problems & social services,2,36x-social-problems-and-social-services
+37x,Education,2,37x-education
+38x,"Commerce, communications & transportation",2,38x-commerce-communications-and-transportation
+39x,"Customs, etiquette & folklore",2,39x-customs-etiquette-and-folklore
+40x,Language,2,40x-language
+41x,Linguistics,2,41x-linguistics
+42x,English & Old English languages,2,42x-english-and-old-english-languages
+43x,German & related languages,2,43x-german-and-related-languages
+44x,French & related languages,2,44x-french-and-related-languages
+45x,"Italian, Romanian & related languages",2,45x-italian-romanian-and-related-languages
+46x,"Spanish, Portuguese, Galician",2,46x-spanish-portuguese-galician
+47x,Latin & Italic languages,2,47x-latin-and-italic-languages
+48x,Classical & modern Greek languages,2,48x-classical-and-modern-greek-languages
+49x,Other languages,2,49x-other-languages
+50x,Science,2,50x-science
+51x,Mathematics,2,51x-mathematics
+52x,Astronomy,2,52x-astronomy
+53x,Physics,2,53x-physics
+54x,Chemistry,2,54x-chemistry
+55x,Earth sciences & geology,2,55x-earth-sciences-and-geology
+56x,Fossils & prehistoric life,2,56x-fossils-and-prehistoric-life
+57x,Biology,2,57x-biology
+58x,Plants (Botany),2,58x-plants-(botany)
+59x,Animals (Zoology),2,59x-animals-(zoology)
+60x,Technology,2,60x-technology
+61x,Medicine & health,2,61x-medicine-and-health
+62x,Engineering,2,62x-engineering
+63x,Agriculture,2,63x-agriculture
+64x,Home & family management,2,64x-home-and-family-management
+65x,Management & public relations,2,65x-management-and-public-relations
+66x,Chemical engineering,2,66x-chemical-engineering
+67x,Manufacturing,2,67x-manufacturing
+68x,Manufacture for specific uses,2,68x-manufacture-for-specific-uses
+69x,Construction of buildings,2,69x-construction-of-buildings
+70x,Arts,2,70x-arts
+71x,Area planning & landscape architecture,2,71x-area-planning-and-landscape-architecture
+72x,Architecture,2,72x-architecture
+73x,"Sculpture, ceramics & metalwork",2,73x-sculpture-ceramics-and-metalwork
+74x,Graphic arts & decorative arts,2,74x-graphic-arts-and-decorative-arts
+75x,Painting,2,75x-painting
+76x,Printmaking & prints,2,76x-printmaking-and-prints
+77x,"Photography, computer art, film, video",2,77x-photography-computer-art-film-video
+78x,Music,2,78x-music
+79x,"Sports, games & entertainment",2,79x-sports-games-and-entertainment
+80x,"Literature, rhetoric & criticism",2,80x-literature-rhetoric-and-criticism
+81x,American literature in English,2,81x-american-literature-in-english
+82x,English & Old English literatures,2,82x-english-and-old-english-literatures
+83x,German & related literatures,2,83x-german-and-related-literatures
+84x,French & related literatures,2,84x-french-and-related-literatures
+85x,"Italian, Romanian & related literatures",2,85x-italian-romanian-and-related-literatures
+86x,"Spanish, Portuguese, Galician literatures",2,86x-spanish-portuguese-galician-literatures
+87x,Latin & Italic literatures,2,87x-latin-and-italic-literatures
+88x,Classical & modern Greek literatures,2,88x-classical-and-modern-greek-literatures
+89x,Other literatures,2,89x-other-literatures
+90x,History,2,90x-history
+91x,Geography & travel,2,91x-geography-and-travel
+92x,Biography & genealogy,2,92x-biography-and-genealogy
+93x,History of ancient world (to ca. 499),2,93x-history-of-ancient-world-(to-ca.-499)
+94x,History of Europe,2,94x-history-of-europe
+95x,History of Asia,2,95x-history-of-asia
+96x,History of Africa,2,96x-history-of-africa
+97x,History of North America,2,97x-history-of-north-america
+98x,History of South America,2,98x-history-of-south-america
+99x,History of other areas,2,99x-history-of-other-areas
+000,"Computer science, information, general works",3,000-computer-science-information-general-works
+001,Knowledge,3,001-knowledge
+002,The book,3,002-the-book
+003,Systems,3,003-systems
+004,Computer science,3,004-computer-science
+005,"Computer programming, programs, data, security",3,005-computer-programming-programs-data-security
+006,Special computer methods,3,006-special-computer-methods
+007,[Unassigned],3,007-[unassigned]
+008,[Unassigned],3,008-[unassigned]
+009,[Unassigned],3,009-[unassigned]
+010,Bibliography,3,010-bibliography
+011,Bibliographies and catalogs,3,011-bibliographies-and-catalogs
+012,Bibliographies and catalogs of individuals,3,012-bibliographies-and-catalogs-of-individuals
+013,[Unassigned],3,013-[unassigned]
+014,Of anonymous & pseudonymous works,3,014-of-anonymous-and-pseudonymous-works
+015,Of works from specific places,3,015-of-works-from-specific-places
+016,Of works on specific subjects,3,016-of-works-on-specific-subjects
+017,Of works held in specific collections or offered for sale,3,017-of-works-held-in-specific-collections-or-offered-for-sale
+018,[Unassigned],3,018-[unassigned]
+019,[Unassigned],3,019-[unassigned]
+020,Library and information sciences,3,020-library-and-information-sciences
+021,Relationships of libraries and archives,3,021-relationships-of-libraries-and-archives
+022,Administration of physical plant,3,022-administration-of-physical-plant
+023,Personnel management,3,023-personnel-management
+024,[Unassigned],3,024-[unassigned]
+025,Operations of libraries and archives,3,025-operations-of-libraries-and-archives
+026,Libraries and archives devoted to specific subjects,3,026-libraries-and-archives-devoted-to-specific-subjects
+027,General libraries and archives,3,027-general-libraries-and-archives
+028,Reading and use of other information media,3,028-reading-and-use-of-other-information-media
+029,[Unassigned],3,029-[unassigned]
+030,General encyclopedic works,3,030-general-encyclopedic-works
+031,General encyclopedic works in American English,3,031-general-encyclopedic-works-in-american-english
+032,General encyclopedic works in English,3,032-general-encyclopedic-works-in-english
+033,Encyclopedias in other Germanic languages,3,033-encyclopedias-in-other-germanic-languages
+034,"Encyclopedias in French, Occitan, Catalan",3,034-encyclopedias-in-french-occitan-catalan
+035,"Encyclopedias in Italian, Romanian & related languages",3,035-encyclopedias-in-italian-romanian-and-related-languages
+036,"Encyclopedias in Spanish, Portuguese, Galician",3,036-encyclopedias-in-spanish-portuguese-galician
+037,General encyclopedic works in Slavic languages,3,037-general-encyclopedic-works-in-slavic-languages
+038,General encyclopedic works in Scandinavian languages,3,038-general-encyclopedic-works-in-scandinavian-languages
+039,General encyclopedic works in other languages,3,039-general-encyclopedic-works-in-other-languages
+040,[Unassigned],3,040-[unassigned]
+041,[Unassigned],3,041-[unassigned]
+042,[Unassigned],3,042-[unassigned]
+043,[Unassigned],3,043-[unassigned]
+044,[Unassigned],3,044-[unassigned]
+045,[Unassigned],3,045-[unassigned]
+046,[Unassigned],3,046-[unassigned]
+047,[Unassigned],3,047-[unassigned]
+048,[Unassigned],3,048-[unassigned]
+049,[Unassigned],3,049-[unassigned]
+050,General serial publications,3,050-general-serial-publications
+051,General serial publications in American English,3,051-general-serial-publications-in-american-english
+052,General serial publications in English,3,052-general-serial-publications-in-english
+053,Serials in other Germanic languages,3,053-serials-in-other-germanic-languages
+054,"Serials in French, Occitan, Catalan",3,054-serials-in-french-occitan-catalan
+055,"Serials in Italian, Romanian & related languages",3,055-serials-in-italian-romanian-and-related-languages
+056,"Serials in Spanish, Portuguese, Galician",3,056-serials-in-spanish-portuguese-galician
+057,General serial publications in Slavic languages,3,057-general-serial-publications-in-slavic-languages
+058,Serials in Scandinavian languages,3,058-serials-in-scandinavian-languages
+059,General serial publications in other languages,3,059-general-serial-publications-in-other-languages
+060,General organizations & museology,3,060-general-organizations-and-museology
+061,General organizations in North America,3,061-general-organizations-in-north-america
+062,General organizations in British Isles; in England,3,062-general-organizations-in-british-isles;-in-england
+063,General organizations in Germany,3,063-general-organizations-in-germany
+064,General organizations in France and Monaco,3,064-general-organizations-in-france-and-monaco
+065,General organizations in Italy,3,065-general-organizations-in-italy
+066,General organizations in Spain,3,066-general-organizations-in-spain
+067,General organizations in Russia,3,067-general-organizations-in-russia
+068,General organizations in other geographic areas,3,068-general-organizations-in-other-geographic-areas
+069,Museology (museum science),3,069-museology-(museum-science)
+070,"Documentary, educational, news media; journalism",3,070-documentary-educational-news-media;-journalism
+071,Journalism and newspapers in North America,3,071-journalism-and-newspapers-in-north-america
+072,Journalism and newspapers in British Isles,3,072-journalism-and-newspapers-in-british-isles
+073,Journalism and newspapers in Germany,3,073-journalism-and-newspapers-in-germany
+074,Journalism and newspapers in France and Monaco,3,074-journalism-and-newspapers-in-france-and-monaco
+075,Journalism and newspapers in Italy,3,075-journalism-and-newspapers-in-italy
+076,Journalism and newspapers in Spain,3,076-journalism-and-newspapers-in-spain
+077,Journalism and newspapers in Russia,3,077-journalism-and-newspapers-in-russia
+078,Journalism and newspapers in Scandinavia,3,078-journalism-and-newspapers-in-scandinavia
+079,Newspapers in other geographic areas,3,079-newspapers-in-other-geographic-areas
+080,General collections,3,080-general-collections
+081,General collections in American English,3,081-general-collections-in-american-english
+082,General collections in English,3,082-general-collections-in-english
+083,General collections in other Germanic languages,3,083-general-collections-in-other-germanic-languages
+084,"General collections in French, Occitan, Catalan",3,084-general-collections-in-french-occitan-catalan
+085,"Collections in Italian, Romanian & related languages",3,085-collections-in-italian-romanian-and-related-languages
+086,"Collections in Spanish, Portuguese, Galician",3,086-collections-in-spanish-portuguese-galician
+087,General collections in Slavic languages,3,087-general-collections-in-slavic-languages
+088,General collections in Scandinavian languages,3,088-general-collections-in-scandinavian-languages
+089,General collections in other languages,3,089-general-collections-in-other-languages
+090,"Manuscripts, rare books",3,090-manuscripts-rare-books
+091,Manuscripts,3,091-manuscripts
+092,Block books,3,092-block-books
+093,Incunabula,3,093-incunabula
+094,Printed books,3,094-printed-books
+095,Books notable for bindings,3,095-books-notable-for-bindings
+096,Books notable for illustrations and materials,3,096-books-notable-for-illustrations-and-materials
+097,Books notable for ownership or origin,3,097-books-notable-for-ownership-or-origin
+098,"Prohibited works, forgeries, hoaxes",3,098-prohibited-works-forgeries-hoaxes
+099,Books notable for format,3,099-books-notable-for-format
 100,Philosophy & psychology,3,100-philosophy-and-psychology
 101,Theory of philosophy,3,101-theory-of-philosophy
 102,Miscellany of philosophy,3,102-miscellany-of-philosophy
