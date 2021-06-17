@@ -10,6 +10,32 @@ txt2 = "My name is {0}, I'm {1}".format("John",36)
 txt3 = "My name is {}, I'm {}".format("John",36)
 ```
 
+## Percentage
+
+```python
+a_number = 0.20
+percentage = "{:.0%}".format(a_number)
+print(percentage)
+
+>> 20%
+```
+
+```python
+a_number = 1 / 3
+percentage = "{:.2%}".format(a_number)
+print(percentage)
+
+>> 33.33%
+```
+
+```python
+a_number = 1 / 3
+percentage = "{a_number:.2%}".format(a_number=a_number)
+print(percentage)
+
+>> 33.33%
+```
+
 
 ## Formatting Types
 
