@@ -7,7 +7,7 @@ Source: https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-ex
 ### Anchors — ^ and $
 
 ```bash
-^The        matches any string that starts with The -> Try it!
+^The        matches any string that starts with The
 end$        matches a string that ends with end
 ^The end$   exact string match (starts and ends with The end)
 roar        matches any string that has the text roar in it
@@ -16,7 +16,7 @@ roar        matches any string that has the text roar in it
 ### Quantifiers — * + ? and {}
 
 ```bash
-abc*        matches a string that has ab followed by zero or more c -> Try it!
+abc*        matches a string that has ab followed by zero or more c
 abc+        matches a string that has ab followed by one or more c
 abc?        matches a string that has ab followed by zero or one c
 abc{2}      matches a string that has ab followed by 2 c
@@ -28,17 +28,17 @@ a(bc){2,5}  matches a string that has a followed by 2 up to 5 copies of the sequ
 
 ### OR operator — | or []
 ```bash
-a(b|c)     matches a string that has a followed by b or c (and captures b or c) -> Try it!
+a(b|c)     matches a string that has a followed by b or c (and captures b or c)
 a[bc]      same as previous, but without capturing b or c
 ```
 
 ### Character classes — \d \w \s and
 ```bash
-\d         matches a single character that is a digit -> Try it!
-\w         matches a word character (alphanumeric character plus underscore) -> Try it!
+\d         matches a single character that is a digit
+\w         matches a word character (alphanumeric character plus underscore)
 \s         matches a whitespace character (includes tabs and line breaks)
-.          matches any character -> Try it!
-\D         matches a single non-digit character -> Try it!
+.          matches any character
+\D         matches a single non-digit character
 \$\d       matches a string that has a $ before one digit
 ```
 
@@ -48,31 +48,31 @@ a[bc]      same as previous, but without capturing b or c
 ### Grouping and capturing — ()
 
 ```bash
-a(bc)           parentheses create a capturing group with value bc -> Try it!
-a(?:bc)*        using ?: we disable the capturing group -> Try it!
-a(?<foo>bc)     using ?<foo> we put a name to the group -> Try it!
+a(bc)           parentheses create a capturing group with value bc
+a(?:bc)*        using ?: we disable the capturing group
+a(?<foo>bc)     using ?<foo> we put a name to the group
 ```
 
 ### Bracket expressions — []
 
 ```bash
-a(bc)           parentheses create a capturing group with value bc -> Try it!
-a(?:bc)*        using ?: we disable the capturing group -> Try it!
-a(?<foo>bc)     using ?<foo> we put a name to the group -> Try it!
+a(bc)           parentheses create a capturing group with value bc
+a(?:bc)*        using ?: we disable the capturing group
+a(?<foo>bc)     using ?<foo> we put a name to the group
 ```
 
 ### Greedy and Lazy match
 
 ```bash
-<.+?>            matches any character one or more times included inside < and >, expanding as needed -> Try it!
-<[^<>]+>         matches any character except < or > one or more times included inside < and > -> Try it!
+<.+?>            matches any character one or more times included inside < and >, expanding as needed
+<[^<>]+>         matches any character except < or > one or more times included inside < and >
 ```
 
 ### Boundaries — \b and \B
 
 ```bash
-\babc\b          performs a "whole words only" search -> Try it!
-\Babc\B          matches only if the pattern is fully surrounded by word characters -> Try it!
+\babc\b          performs a "whole words only" search
+\Babc\B          matches only if the pattern is fully surrounded by word characters
 ```
 
 ## Advanced topics
@@ -80,16 +80,16 @@ a(?<foo>bc)     using ?<foo> we put a name to the group -> Try it!
 ### Back-references — \1
 
 ```bash
-([abc])\1              using \1 it matches the same text that was matched by the first capturing group -> Try it!
-([abc])([de])\2\1      we can use \2 (\3, \4, etc.) to identify the same text that was matched by the second (third, fourth, etc.) capturing group -> Try it!
-(?<foo>[abc])\k<foo>   we put the name foo to the group and we reference it later (\k<foo>). The result is the same of the first regex -> Try it!
+([abc])\1              using \1 it matches the same text that was matched by the first capturing group
+([abc])([de])\2\1      we can use \2 (\3, \4, etc.) to identify the same text that was matched by the second (third, fourth, etc.) capturing group
+(?<foo>[abc])\k<foo>   we put the name foo to the group and we reference it later (\k<foo>). The result is the same of the first regex
 ```
 
 ### Look-ahead and Look-behind — (?=) and (?<=)
 
 ```bash
-d(?=r)       matches a d only if is followed by r, but r will not be part of the overall regex match -> Try it!
-(?<=r)d      matches a d only if is preceded by an r, but r will not be part of the overall regex match -> Try it!
-d(?!r)       matches a d only if is not followed by r, but r will not be part of the overall regex match -> Try it!
-(?<!r)d      matches a d only if is not preceded by an r, but r will not be part of the overall regex match -> Try it!
+d(?=r)       matches a d only if is followed by r, but r will not be part of the overall regex match
+(?<=r)d      matches a d only if is preceded by an r, but r will not be part of the overall regex match
+d(?!r)       matches a d only if is not followed by r, but r will not be part of the overall regex match
+(?<!r)d      matches a d only if is not preceded by an r, but r will not be part of the overall regex match
 ```
