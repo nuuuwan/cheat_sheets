@@ -32,6 +32,15 @@ a(b|c)     matches a string that has a followed by b or c (and captures b or c)
 a[bc]      same as previous, but without capturing b or c
 ```
 
+#### "Capturing"
+```python
+import re
+re.match(r'a[bc]', 'abc').groups()
+# returns ()
+re.match(r'a(b|c)', 'abc').groups()
+# returns ('b',)
+```
+
 ### Character classes — \d \w \s and
 ```bash
 \d         matches a single character that is a digit
