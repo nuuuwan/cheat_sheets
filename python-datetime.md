@@ -30,9 +30,7 @@
 
 ```python
 %H 	Hour (24-hour clock) as a zero-padded decimal number. 	07
-%-H 	Hour (24-hour clock) as a decimal number. (Platform specific) 	7
 %I 	Hour (12-hour clock) as a zero-padded decimal number. 	07
-%-I 	Hour (12-hour clock) as a decimal number. (Platform specific) 	7
 ```
 
 ## AM/PM
