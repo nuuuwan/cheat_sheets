@@ -5,7 +5,7 @@
 ```python
 r'(?P<first>\w+) (?P<last>\w+)'
 result = re.search(REGEX_MEDIA_URL, URL)
-result.groupdict()
+result_data = result.groupdict()
 ```
 
 ## os
@@ -114,7 +114,11 @@ return content
 
 
 ```python
-browser.find_element_by_xpath(
+element = browser.find_element_by_xpath(
   "//select[@name='DataTables_Table_0_length']/option[text()='All']"
 ).click()
+```
+
+```Python
+element.get_attribute("href")
 ```
