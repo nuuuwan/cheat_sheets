@@ -92,33 +92,4 @@ parser.add_argument(
 )
 args = parser.parse_args()
 ```
-## selenium
 
-```python
-from selenium import webdriver
-from selenium.webdriver.firefox.options import Options
-
-options = Options()
-options.headless = True
-browser = webdriver.Firefox(options=options)
-browser.get(url)
-
-for _ in range(0, SELENIUM_SCROLL_REPEATS):
-    browser.execute_script(SELENIUM_SCROLL_SCRIPT)
-    time.sleep(SELENIUM_SCROLL_WAIT_TIME)
-
-content = browser.page_source
-browser.quit()
-return content
-```
-
-
-```python
-element = browser.find_element_by_xpath(
-  "//select[@name='DataTables_Table_0_length']/option[text()='All']"
-).click()
-```
-
-```Python
-element.get_attribute("href")
-```
