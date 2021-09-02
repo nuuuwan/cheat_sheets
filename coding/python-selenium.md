@@ -8,7 +8,7 @@ from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 
 firefox_options = Options()
-firefox_options.set_headless()
+firefox_options.headless = True
 
 driver = webdriver.Firefox(firefox_options=firefox_options)
 
