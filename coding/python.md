@@ -41,6 +41,15 @@ tree = ET.fromstring(xml_as_string)
 
 ```
 
+```python
+_html = ET.Element('html')
+_head = ET.SubElement(_html, 'head')
+_link = ET.SubElement(_head, 'link', {
+    'rel': 'stylesheet',
+    'href': '../styles.css',
+})
+```
+
 ## unittest
 
 ```python
