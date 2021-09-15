@@ -13,3 +13,6 @@ soup.find_all('a', href=True):
 soup.find_all(attrs={'name' : 'stainfo'})
 ```
 
+```python
+a_link.get('href')
+```
