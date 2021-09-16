@@ -35,6 +35,11 @@ find_elements_by_id
 
 ```
 
+```python
+driver.find_element(By.XPATH, '//button[text()="Some text"]')
+```
+
+
 ## Attributes
 
 
