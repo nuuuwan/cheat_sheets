@@ -36,7 +36,7 @@ find_elements_by_id
 ```
 
 ```python
-driver.find_element(By.XPATH, '//button[text()="Some text"]')
+driver.find_element_by_xpath('//button[text()="Some text"]')
 ```
 
 
