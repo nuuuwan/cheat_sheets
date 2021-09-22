@@ -28,6 +28,12 @@ driver.quit() # closes all browser windows and ends the WebDriver session.
 driver.page_source
 ```
 
+## Screenshots
+
+```python
+driver.get_screenshot_as_file(png_file)
+```
+
 ## Find Elements
 
 ```python
