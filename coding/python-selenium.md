@@ -21,6 +21,13 @@ driver.quit() # closes all browser windows and ends the WebDriver session.
 
 ```
 
+
+## Page Source HTML
+
+```python
+driver.page_source
+```
+
 ## Find Elements
 
 ```python
