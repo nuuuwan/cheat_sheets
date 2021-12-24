@@ -34,6 +34,14 @@ driver.page_source
 driver.get_screenshot_as_file(png_file)
 ```
 
+## Screen/Window Size
+
+```python
+driver.set_window_size(1920, 1080)
+```
+
+
+
 ## Find Elements
 
 ```python
