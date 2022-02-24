@@ -16,17 +16,22 @@ if result:
 ```
 
 ### Substitute
+
+```python
 s = 'Albert      Einstein'
 s = re.sub(r'\s+', ' ', s)
 print(s)  # "Albert Einstein" (replaces multiple spaces with single spaces)
+```
 
 ### Does string match
 
+```python
 RE_NAME = r'(?P<first_name>\w+)\s(?P<last_name>\w+)'
 s = 'Albert Einstein'
 result = re.match(RE_NAME, s)
 if bool(result):
   print('String matches!')
+```
 
 ...
 
