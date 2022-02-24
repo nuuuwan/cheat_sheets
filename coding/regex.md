@@ -1,5 +1,35 @@
 # Regex
 
+Also, use https://pythex.org
+
+## Usage Patterns in Python (by nuuuwan)
+
+### Named Groups
+```python
+RE_NAME = r'(?P<first_name>\w+)\s(?P<last_name>\w+)'
+s = 'Albert Einstein'
+result = re.match(RE_NAME, s)
+if result:
+  result_data = result.groupdict()
+  first_name = result_data['first_name']
+  last_name = result_data['last_name']
+```
+
+### Substitute
+s = 'Albert      Einstein'
+s = re.sub(r'\s+', ' ', s)
+print(s)  # "Albert Einstein" (replaces multiple spaces with single spaces)
+
+### Does string match
+
+RE_NAME = r'(?P<first_name>\w+)\s(?P<last_name>\w+)'
+s = 'Albert Einstein'
+result = re.match(RE_NAME, s)
+if bool(result):
+  print('String matches!')
+
+...
+
 (Based on https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285, with @nuuuwan's notes and additions)
 
 ## Basic Topics
