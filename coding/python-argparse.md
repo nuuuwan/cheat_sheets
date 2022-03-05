@@ -7,7 +7,11 @@ def get_options():
     parser.add_argument('pdf_file', type=str)
     parser.add_argument('start_page', type=int)
     parser.add_argument('end_page', type=int)
-    return parser.parse_args()  
+    return parser.parse_args()
+
+if __name__ == '__main__':
+    options = get_options()
+    print(options)
 ```
 
 ```bash
