@@ -8,7 +8,7 @@ From [https://dev.to/i5han3/git-commit-message-convention-that-you-can-follow-17
 ```
 
 ## Types
-```
+
 * feat: A new feature
 * fix: A bug fix
 * test: Adding new test or making changes to existing test
@@ -22,4 +22,4 @@ From [https://dev.to/i5han3/git-commit-message-convention-that-you-can-follow-17
 
 * build: Build related changes (eg: npm related/ adding external dependencies)
 * chore: A code change that external user won't see (eg: change to .gitignore file or .prettierrc file)
-```
+
